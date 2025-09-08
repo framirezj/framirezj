@@ -1,26 +1,35 @@
-### Hi there 👋, I am Fran
+# 👋 ¡Hola! Soy Francisco  
 
-## 📚 I have knowledge in:
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+💻 **Desarrollador Junior**
+En constante aprendizaje y con ganas de aportar a proyectos reales.  
+
+---
+
+## 🚀 Sobre mí  
+- 🎓 Estudio Ingenieria Informática  
+- 🎓 He realizado 2 Bootcamp Backend en Oracle One con Java y Spring; Fullstack Javascript en Desafío Latam  
+- 🌱 Actualmente practicando desarrollo fullstack 
+- 🤝 Buscando colaborar en proyectos
+
+---
+
+## 🛠️ Tecnologías y herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,spring,react,nodejs,express,bootstrap,tailwind,html,css,git,github,mysql,postgres" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+![Tu nombre GitHub stats](https://github-readme-stats.vercel.app/api?username=framirezj&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=framirezj&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contacto 
+- 💼 [LinkedIn](https://www.linkedin.com/in/framirezj2916)
+
+---
 
 
-<!--
-**framirezj/framirezj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
-	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
- https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
