@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Francisco  
 
-💻 **Desarrollador Junior**
-En constante aprendizaje y con ganas de aportar a proyectos reales.  
+💻 **Desarrollador**
+. En constante aprendizaje y con ganas de aportar a proyectos reales.  
 
 ---
 
