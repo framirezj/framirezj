@@ -6,7 +6,7 @@ En constante aprendizaje y con ganas de aportar a proyectos reales.
 ---
 
 ## 🚀 Sobre mí  
-- 🎓 Estudio Ingenieria Informática  
+- 🎓 Estudio Ingeniería Informática  
 - 🎓 He realizado 2 Bootcamp Backend en Oracle One con Java y Spring; Fullstack Javascript en Desafío Latam  
 - 🌱 Actualmente practicando desarrollo fullstack 
 - 🤝 Buscando colaborar en proyectos
