@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas alguna vez usadas.
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,java,spring,react,nodejs,express,bootstrap,tailwind,html,css,git,github,mysql,postgres" />
 </p>
