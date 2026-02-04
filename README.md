@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Francisco  
+# 👋 ¡Hola!  
 
 💻 **Desarrollador**
 . En constante aprendizaje y con ganas de aportar a proyectos reales.  
@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Sobre mí  
-- 🎓 Estudio Ingeniería Informática  
+- 🎓 Ingeniería Informática  
 - 🎓 He realizado 2 Bootcamp Backend en Oracle One con Java y Spring; Fullstack Javascript en Desafío Latam  
 - 🌱 Actualmente practicando desarrollo fullstack 
 - 🤝 Buscando colaborar en proyectos
